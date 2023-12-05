@@ -1,4 +1,5 @@
-Hi, I'm Matteo Bombelli, a Computing Science undergraduate student in the Faculty of Applied Sciences at [Simon Fraser University](https://www.sfu.ca/). My github is home to my class and personal projects!
+Hi, I'm Matteo Bombelli, Computing Science undergraduate student in the Faculty of Applied Sciences at [Simon Fraser University](https://www.sfu.ca/).
+This github is home to my class and personal projects!
 
 I can be contacted by [email](mailto:matteo.bombelli@gmail.com).
 
