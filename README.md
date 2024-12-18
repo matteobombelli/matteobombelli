@@ -1,17 +1,20 @@
-Hi, I'm Matteo Bombelli, Computing Science undergraduate student in the Faculty of Applied Sciences at [Simon Fraser University](https://www.sfu.ca/).<br />
-This github is home to my class and personal projects!
+# Technical Skills
+<strong>
+- React  
+- JavaScript  
+- HTML/CSS  
+- C/C++  
+- Bash  
+- Python  
+- Git
+</strong>
 
-I can be contacted by [email](mailto:matteo.bombelli@gmail.com).
+# Recent Projects
+### blackjack-vs-ai (R, React)
+- Blackjack agent made in R using Monte-Carlo reward training
+- Interactive blackjack game where you can play against the agent made using React
 
-**Languages and Tools**<br />
-
-<code><img height="64" src="https://github.com/matteobombelli/matteobombelli/blob/f0a138eed45bb972b7bcb9a42d432e2da6fbbca7/images/c_logo.png"></code>
-<code><img height="64" src="https://github.com/matteobombelli/matteobombelli/blob/f0a138eed45bb972b7bcb9a42d432e2da6fbbca7/images/cpp_logo.png"></code>
-<code><img height="64" src="https://github.com/matteobombelli/matteobombelli/blob/f0a138eed45bb972b7bcb9a42d432e2da6fbbca7/images/cmake_logo.png"></code>
-<code><img height="64" src="https://github.com/matteobombelli/matteobombelli/blob/f0a138eed45bb972b7bcb9a42d432e2da6fbbca7/images/bash_logo.png"></code>
-<code><img height="64" src="https://github.com/matteobombelli/matteobombelli/blob/f0a138eed45bb972b7bcb9a42d432e2da6fbbca7/images/python_logo.png"></code>
-<code><img height="64" src="https://github.com/matteobombelli/matteobombelli/blob/f0a138eed45bb972b7bcb9a42d432e2da6fbbca7/images/git_logo.png"></code>
-<!---
-matteobombelli/matteobombelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### emergency-map
+- Users can add reports which are visible on the map
+- Operators can update report status and remove reports
+- Features address geocoding
