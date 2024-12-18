@@ -1,13 +1,11 @@
 # Technical Skills
-<strong>
-- React  
-- JavaScript  
-- HTML/CSS  
-- C/C++  
-- Bash  
-- Python  
-- Git
-</strong>
+### React  
+### JavaScript  
+### HTML/CSS  
+### C/C++  
+### Bash  
+### Python  
+### Git
 
 # Recent Projects
 ### blackjack-vs-ai (R, React)
