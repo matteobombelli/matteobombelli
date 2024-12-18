@@ -1,4 +1,5 @@
 # Technical Skills
+|-------|------------|----------|-----|
 | React | JavaScript | HTML/CSS | R   |
 | C/C++ | Bash       | Python   | Git |
 
