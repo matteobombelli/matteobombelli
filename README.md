@@ -25,5 +25,3 @@ I'm a Computing Science student at [Simon Fraser University](https://www.sfu.ca/
 
 - LinkedIn: [matteo-bombelli](https://linkedin.com/in/matteo-bombelli)
 - Email: matteo.bombelli@gmail.com
-
----
