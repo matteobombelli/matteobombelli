@@ -11,7 +11,7 @@ I'm a Computing Science student at [Simon Fraser University](https://www.sfu.ca/
 
 ## Featured Projects
 
-- **[HTTPS DB](https://matteobombelli.github.io/https-db** - Containerized HTTPS server in Go that turns any machine into a secure database API with token-based authentication
+- **[HTTPS DB](https://matteobombelli.github.io/https-db)** - Containerized HTTPS server in Go that turns any machine into a secure database API with token-based authentication
 - **[Blackjack vs Agent](https://matteobombelli.github.io/blackjack-vs-ai)** - Interactive game where you play against a RL agent trained via Monte Carlo simulation
 
 ## Tech Stack
