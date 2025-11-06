@@ -11,8 +11,8 @@ I'm a Computing Science student at [Simon Fraser University](https://www.sfu.ca/
 
 ## Featured Projects
 
-- **[Tetris RL Models]()** - WIP  
-- **[HTTPS DB](https://github.com/matteobombelli/https-db)** - Containerized HTTPS server in Go that turns any machine into a secure database API with token-based authentication  
+- **[MP3 Library/Player]()** - WIP
+- **[FLEX: File Exchange Protocol]()** - WIP
 - **[Blackjack vs Agent](https://matteobombelli.github.io/blackjack-vs-ai)** - Interactive game where you play against a RL agent trained via Monte Carlo simulation  
 
 ## Tech Stack
