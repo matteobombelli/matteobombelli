@@ -24,16 +24,16 @@ Right now I'm a Technical Analyst Intern at LineZero, where I build retrieval-au
 
 ### What I've been building
 
-**🎵 WebTunes** &nbsp;·&nbsp; `Next.js` `TypeScript` `PostgreSQL` `AWS S3`
+**[WebTunes](https://matteob.dev/projects/webtunes)** &nbsp;·&nbsp; `Next.js` `TypeScript` `PostgreSQL` `AWS S3`
 A self-hosted web music app. Each user uploads their own library to S3 and streams it in the browser through presigned URLs with HTTP range requests, so the server never proxies audio. Added full-text search (tsvector + GIN index) over title, artist, album, and lyrics, plus friend-based library sharing.
 
-**🔗 URL Shortener & Analytics API** &nbsp;·&nbsp; `Spring Boot` `Java` `PostgreSQL` `Redis` `Nginx`
+**URL Shortener & Analytics API** &nbsp;·&nbsp; `Spring Boot` `Java` `PostgreSQL` `Redis` `Nginx`
 A REST shortening service using Base62 encoding for collision-resistant links, backed by Spring Data JPA and PostgreSQL. Hot URLs are cached in Redis to cut read latency, with documented REST contracts for reuse.
 
-**📡 Pipelined Reliable Transfer Protocol (PRTP)** &nbsp;·&nbsp; `Python` `Wireshark`
+**Pipelined Reliable Transfer Protocol (PRTP)** &nbsp;·&nbsp; `Python` `Wireshark`
 A reliable transport protocol built over UDP with a three-way handshake, congestion and flow control, and pipelining driven by custom headers. Validated with Wireshark traces and a packet-loss fuzzer against a non-blocking-socket server.
 
-**🃏 [Blackjack vs Agent](https://matteobombelli.github.io/blackjack-vs-ai)** &nbsp;·&nbsp; `R` `React` `TypeScript`
+**[Blackjack vs Agent](https://matteobombelli.github.io/blackjack-vs-ai)** &nbsp;·&nbsp; `R` `React` `TypeScript`
 A reinforcement-learning Blackjack agent trained with a Monte Carlo simulation in R, improving win rate 15.3% over random play and converging to optimal basic strategy. Wrapped in an interactive React site with animations and sound so you can play against it.
 
 > More projects live on [matteob.dev](https://matteob.dev).
