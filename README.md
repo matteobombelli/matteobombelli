@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Matteo 👋</h1>
+<h1 align="center">Hey, I'm Matteo</h1>
 
 <p align="center">
   Computing Science student at SFU and Technical Analyst Intern at LineZero.<br/>
@@ -36,7 +36,7 @@ A reliable transport protocol built over UDP with a three-way handshake, congest
 **🃏 [Blackjack vs Agent](https://matteobombelli.github.io/blackjack-vs-ai)** &nbsp;·&nbsp; `R` `React` `TypeScript`
 A reinforcement-learning Blackjack agent trained with a Monte Carlo simulation in R, improving win rate 15.3% over random play and converging to optimal basic strategy. Wrapped in an interactive React site with animations and sound so you can play against it.
 
-> More projects and write-ups live on [matteob.dev](https://matteob.dev).
+> More projects live on [matteob.dev](https://matteob.dev).
 
 ### Tech I work with
 
@@ -69,15 +69,6 @@ A reinforcement-learning Blackjack agent trained with a Monte Carlo simulation i
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matteobombelli&show_icons=true&hide_border=true&title_color=1d4ed8&icon_color=1d4ed8" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteobombelli&layout=compact&hide_border=true&title_color=1d4ed8" alt="Top languages" />
-</p>
-
----
 
 <p align="center">
   Want to chat? Find me at <a href="https://matteob.dev">matteob.dev</a> or <a href="https://www.linkedin.com/in/matteo-bombelli/">LinkedIn</a>, or grab my <a href="./resume.pdf">resume</a>.
